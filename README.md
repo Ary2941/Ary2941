@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning to do blockchain aplications in various languages
 - 💞️ I’m looking to collaborate on projects blockchain related
 - 📫 How to reach me: amaury2941@gmail.com
-- 😄 Pronouns: co/de
 - ⚡ Fun fact: i code
 
 <!---
